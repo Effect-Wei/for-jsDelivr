@@ -1,1 +1,1 @@
-# I Love jsDelivr
+# jsDelivr 是好文明
